@@ -1,0 +1,39 @@
+header {
+    background: red;
+}
+main {
+    background: blue;
+}
+
+.nombre {
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.biografia { 
+    color:orange;
+}
+.cajaazul{
+    background-color: #0000ff;
+    height: 50px;
+    width: 1350px;
+    color: #ffffff;
+    border: 1px solid;
+}
+.cajaroja{
+    background-color: #ff0000;
+    height: 50px;
+    width: 1350px;
+    color: #ffffff;
+    border: 1px solid;
+}
+.encabezado {
+    display:flex; 
+    justify-content: center;
+} 
+.fotopersonal { 
+    height: 10%;
+    width: 10%;
+}
+.titulo {
+    margin: 5px;
+}
